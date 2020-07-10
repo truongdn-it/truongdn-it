@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Hanoi University of Mining and geolory
 - 🌱 I’m currently learning software technology
 - 📫 How to reach me: hi@duongnamtruong.com
+- 💬 Ask me about ... via Facebook: https://facebook.com/truongduongg99
 - 👦 I am the author of technology blog: https://laptrinhbanthan.com
 - ⚡ Fun fact: Javascript is my primary programming language
 <!--
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 
 - 😄 Pronouns: ...
 
