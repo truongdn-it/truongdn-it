@@ -20,4 +20,4 @@
 
 ## Experience 
 
-https://github.com/namtruongdev/
+https://www.linkedin.com/in/truongduong99/
