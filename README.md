@@ -20,4 +20,4 @@
 
 ## Experience 
 
-https://www.linkedin.com/in/truongduong99/
+https://www.linkedin.com/in/truongdn-it/
