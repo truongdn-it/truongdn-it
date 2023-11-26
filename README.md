@@ -25,4 +25,4 @@ https://www.linkedin.com/in/truongdn-it/
 
 <h3>🥇 Top 1 - Hackathon Near APAC 2023</h3>
 
-![Duong Nam Truong - Top 1 Near APAC 2023](./public/duong-nam-truong-top-1-near-apac.JPG)
+![Duong Nam Truong - Top 1 Near APAC 2023](./public/duong-nam-truong-top-1-near-apac.png)
